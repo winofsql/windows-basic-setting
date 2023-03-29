@@ -21,4 +21,5 @@ reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\Inpr
 ```reg
 reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f 
 ```
-![image](https://user-images.githubusercontent.com/1501327/228455540-32aa04a3-c72a-4ea1-a274-d41e7e5ddc4f.png)
+![image](https://user-images.githubusercontent.com/1501327/228455618-24bd8ae6-3187-47ab-a2c5-2dfaddc2a23c.png)
+
