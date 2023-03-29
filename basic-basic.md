@@ -3,5 +3,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/228417945-674e0013-4a95-4c98-8fb2-dc37589ea7cb.png)
 
 ## タスクマネージャー
-![image](https://user-images.githubusercontent.com/1501327/228418475-e9c2cdf9-adca-4dfd-b7a8-ce78067d49fc.png)
-![image](https://user-images.githubusercontent.com/1501327/228418677-9e9a2380-514a-411f-9c83-fbf0b4bed3b8.png)
+![image](https://user-images.githubusercontent.com/1501327/228418475-e9c2cdf9-adca-4dfd-b7a8-ce78067d49fc.png)\
+![image](https://user-images.githubusercontent.com/1501327/228418677-9e9a2380-514a-411f-9c83-fbf0b4bed3b8.png)\
+![image](https://user-images.githubusercontent.com/1501327/228419034-2092f204-ba51-4d05-86b5-04ce665637a4.png)
+
