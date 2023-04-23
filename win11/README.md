@@ -71,5 +71,5 @@ reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\I
 - 設定
   ![image](https://user-images.githubusercontent.com/1501327/233826576-64a65a5c-8b06-455b-b5de-3f93a3edb38f.png)
 
-  - C:\Users\lightbox\Pictures\Screenshots ( スクリーンショットを自動的に保存する )
+- C:\Users\lightbox\Pictures\Screenshots ( スクリーンショットを自動的に保存する )
   ![image](https://user-images.githubusercontent.com/1501327/233826775-04a4dc2a-c232-4b27-a7c9-0bd0787508e9.png)
