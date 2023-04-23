@@ -23,9 +23,7 @@ reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\I
 ```
 ![image](https://user-images.githubusercontent.com/1501327/228455618-24bd8ae6-3187-47ab-a2c5-2dfaddc2a23c.png)
 
-### 
+### ウィジットを OFF にする
 
+![image](https://user-images.githubusercontent.com/1501327/233825831-f086bc1b-66f3-4c23-baed-9e68ac879a2e.png)
 
-
-
-![image](https://user-images.githubusercontent.com/1501327/233825745-76a49a74-5624-464a-b3a0-7bc39044c247.png)
